@@ -1,0 +1,51 @@
+[ 
+    {
+        "name" : "PHP Intermediate level",
+        "website" : "http://laravel.com/camps",
+        "phone" : "(111) - 111111",
+        "description" : "Bootcamp for PHP Learning ",
+        "user_id" : 1,
+        "average_rating" : 4.5 ,
+        "average_cost" : 8000 
+    } ,
+
+    {
+        "name" : "Python Intermediate level",
+        "website" : "http://python.com",
+        "phone" : "(222) - 151251",
+        "description" : "Bootcamp for Python Learning ",
+        "user_id" : 1,
+        "average_rating" : 4.5 ,
+        "average_cost" : 1000 
+    } ,
+
+    {
+         "name" : "React Intermediate level",
+         "website" : "http://react.com",
+         "phone" : "(222) - 151234",
+         "description" : "Bootcamp for React Learning ",
+         "user_id" : 1,
+         "average_rating" : 3.5 ,
+         "average_cost" : 4000
+    } ,
+
+    {
+          "name" : "Java Intermediate level",
+          "website" : "http://java.com",
+          "phone" : "(222) - 1512734",
+          "description" : "Bootcamp for Java Learning ",
+          "user_id" : 1,
+          "average_rating" : 5.0 ,
+          "average_cost" : 1200 
+    } ,
+    
+    {
+        "name" : "Rubi Intermediate level",
+        "website" : "http://rubi.com",
+        "phone" : "(222) - 151489",
+        "description" : "Bootcamp for Rubi Learning ",
+        "user_id" : 1,
+        "average_rating" : 7.0 ,
+        "average_cost" : 3000 
+    } 
+]
